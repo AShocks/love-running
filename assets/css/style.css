@@ -288,3 +288,13 @@ footer {
 
 
     }
+
+    /* For medium screens sizes 950px and down */
+
+    #mene {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
